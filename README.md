@@ -29,8 +29,8 @@
 - 본 소프트웨어의 저작권 및 특허는 (주)씨에스리에 있으며, 변경이나 무단전재 및 재배포는 금지됩니다.
 
 ### 5. 제품소개
-https://www.cslee.co.kr/remon.html
-https://blog.cslee.co.kr/remon-redis-monitoring-solution/
+- https://blog.cslee.co.kr/remon-redis-monitoring-solution/
+- https://www.cslee.co.kr/remon.html
 
 ### 6. 도입문의 
-조용학 팀장 : yhcho@cslee.co.kr 02-307-0182
+- 조용학 팀장 : yhcho@cslee.co.kr 02-307-0182
