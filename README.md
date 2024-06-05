@@ -1,6 +1,6 @@
 ![remon](/images/remon.png)
 # REMON
-### Redis Multi-instance Monitoring 의 약자로 Redis 데이터베이스의 상태를 모니터링하여 사용자에게 Redis 인스턴스들이 정상 작동되고 있는지 한눈에 볼 수 있도록 편리기능을 지원하는 소프트웨어.
+### REMON은 Redis Multi-instance Monitoring 의 약자로 Redis 데이터베이스의 상태를 모니터링하여 사용자에게 Redis 인스턴스들이 정상 작동되고 있는지 한눈에 볼 수 있도록 편의기능을 지원하는 소프트웨어입니다.
 
 ### 1. 주요기능 및 특장점
 - Matrix view : redis instance를 그룹별로 묶어서 모니터링
