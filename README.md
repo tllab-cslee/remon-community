@@ -31,6 +31,7 @@
 ### 5. 설치 
 1) mariadb_console_install.pdf 내용 확인(Community_install_File.zip파일 사용, mariadb, WAS 설치)
 2) redis_agent_install.pdf 내용 확인(remon_agent.zip파일 사용, redis, agent 설치)
+3) Community_Install_File.zip과 Community_Install_File.z01은 분할 압축 파일이므로 모두 다운로드 필요.
 
 ### 6. 제품소개
 - https://blog.cslee.co.kr/remon-redis-monitoring-solution/
