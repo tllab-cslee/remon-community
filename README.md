@@ -28,9 +28,13 @@
 - 개인사용자에 한해 누구나 설치해서 사용가능
 - 본 소프트웨어의 저작권 및 특허는 (주)씨에스리에 있으며, 변경이나 무단전재 및 재배포는 금지됩니다.
 
-### 5. 제품소개
+### 5. 설치 
+1) mariadb_console_install.pdf 내용 확인(Community_install_File.zip파일 사용, mariadb, WAS 설치)
+2) redis_agent_install.pdf 내용 확인(remon_agent.zip파일 사용, redis, agent 설치)
+
+### 6. 제품소개
 - https://blog.cslee.co.kr/remon-redis-monitoring-solution/
 - https://www.cslee.co.kr/remon.html
 
-### 6. 도입문의 
+### 7. 도입문의 
 - 박성용 영업이사 : sypark@cslee.co.kr 02-307-0182
